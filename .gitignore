@@ -6,3 +6,6 @@ vendor/
 .vscode/
 .idea/
 .DS_Store
+semgrep-results.json
+trivy-results.json
+gitleaks-history.json
